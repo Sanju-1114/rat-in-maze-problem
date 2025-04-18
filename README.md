@@ -30,10 +30,13 @@ git clone https://github.com/Sanju-1114/rat-in-maze-problem.git
 ## 🧩 Example Maze
 
 The maze used in this program looks like this:
+   ```
     1 0 0 0
     1 1 0 1
     1 1 0 0
     0 1 1 1
+
+  ```  
 
 `1` - Open path  
 `0` - Blocked cell  
