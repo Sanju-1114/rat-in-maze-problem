@@ -27,6 +27,7 @@ git clone https://github.com/Sanju-1114/rat-in-maze-problem.git
     ./ratMaze
 ```
 
+
 ## 🧩 Example Maze
 
 The maze used in this program looks like this:
@@ -48,6 +49,7 @@ The maze used in this program looks like this:
 - Appends direction letters (`D`, `U`, `L`, `R`) to form a path string
 - Adds each valid path to a result list
 - Uses backtracking to explore all possibilities
+
 
 ## 📁 File Structure
 
